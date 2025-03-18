@@ -43,8 +43,6 @@ class Llll implements Comparable<Llll> {
                     ", second=" + second +
                     '}';
         }
-
-
         @Override
         public int compareTo(Llll o) {
             return Llll.this.hour - o.hour;
