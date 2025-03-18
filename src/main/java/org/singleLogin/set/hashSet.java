@@ -37,7 +37,7 @@ public class hashSet {
 //        }
         Iterator<Llll> iterator = list.iterator();
 
-            System.out.println(iterator.next());
+        System.out.println(iterator.next());
 
 
     }
